@@ -1,3 +1,35 @@
 body{
   background-image: url(assets/freedom.jpg);
 }
+.quote{
+  font-family: cursive;
+  font-size: 22px;
+  word-spacing: 4px;
+  line-height: 45px;
+  text-transform: uppercase;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg{
+  text-align: center;
+  height: 100%;
+    padding-top: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.author{
+  font-style: italic;
+  font-size: 15px;
+  padding-top: 5%;
+  margin-bottom: 30%;
+}
+img {
+  max-width: 100px;
+  height: 50px;
+  padding-left: 1%;
+  padding-right: 1%;
+  margin-top: 40px;
+}
